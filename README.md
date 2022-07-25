@@ -69,3 +69,4 @@
         - Redirect URL : /guestbook/list
 
 #엔티티 관계도
+![Untitled](https://user-images.githubusercontent.com/97961558/180749304-a14cd2f0-6966-429f-a958-6973a7709dca.png)
