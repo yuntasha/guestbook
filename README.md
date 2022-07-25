@@ -68,5 +68,9 @@
         - 기능 : 삭제처리
         - Redirect URL : /guestbook/list
 
-#엔티티 관계도
+# 엔티티 관계도
 ![Untitled](https://user-images.githubusercontent.com/97961558/180749304-a14cd2f0-6966-429f-a958-6973a7709dca.png)
+
+
+# 색깔 바꾸기
+![캡처](https://user-images.githubusercontent.com/97961558/180749739-20bc9e51-1343-475c-ae8d-963e40635144.PNG)
