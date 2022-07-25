@@ -69,7 +69,9 @@
         - Redirect URL : /guestbook/list
 
 # 엔티티 관계도
-![Untitled](https://user-images.githubusercontent.com/97961558/180749304-a14cd2f0-6966-429f-a958-6973a7709dca.png)
+![엔티티1](https://user-images.githubusercontent.com/97961558/180763244-f89baaf8-0985-4060-ac6f-8027c5abd68c.PNG)
+![엔티티2](https://user-images.githubusercontent.com/97961558/180763248-ab49c90f-31e2-4ebc-940a-c722585f16f3.PNG)
+![엔티티3](https://user-images.githubusercontent.com/97961558/180763249-a1dbc50d-c2fc-4b10-9c1c-a326838103e8.PNG)
 
 
 # 색깔 바꾸기
